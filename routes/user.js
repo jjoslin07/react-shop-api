@@ -1,5 +1,4 @@
 const {
-	verifyToken,
 	verifyTokenAndAuthorization,
 	verifyTokenAndAdmin,
 } = require("../middleware/verifyToken");
